@@ -1,6 +1,6 @@
 # cdceprog #
 
- >*Updated to run on the modern day Raspberry Pi 4 using Python3<br>
+ >*Updated to run on the modern day Raspberry Pi 4 & 5 using Python3<br>
  >by Nostalgic Indulgences ( Twitter@nosIndulgences )*
 
 This is a very quick hack for programming a TI CDCE913/925 PLL chip with
