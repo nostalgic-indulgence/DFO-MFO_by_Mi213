@@ -1,4 +1,4 @@
-#   The program has been updated to work on the modern day Raspberry Pi 4 with Python 3
+#   The program has been updated to work on the modern day Raspberry Pi 4/5 with Python 3
 #   Simple code porting by Nostalgic Indulgences ( Twitter@nosIndulgences )
 #
 #!/usr/bin/python
